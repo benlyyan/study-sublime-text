@@ -1,0 +1,12 @@
+sublime text3安装：
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+
+sudo apt-get update
+
+sudo apt-get install sublime-text-installer
+
+卸载 sublime text 命令：
+
+sudo apt-get remove sublime-text-installer
+
+sublime text3配置：
