@@ -1,0 +1,41 @@
+Ctrl+] 向右缩进
+
+ 
+
+Ctrl+[ 向左缩进
+
+ 
+
+Ctrl+Z 撤销。
+
+ 
+
+Ctrl+Y 恢复撤销。
+
+ 
+
+Ctrl+F 打开底部搜索框，查找关键字。
+
+ 
+
+Ctrl+A 选中全文
+
+ 
+
+Ctrl+B 运行python
+
+ 
+
+Ctrl+Shift+P 调出命令窗
+
+ 
+
+Ctrl+shift+R 格式化
+
+ 
+
+Ctrl+shift+V 格式化粘贴 这个很有用，可以把网上的代码按照我的格式粘到我的文档里
+
+ 
+
+Ctrl+//注释 这个比较厉害，如果是python,就是加#号的，想取消再弄一次就好了
