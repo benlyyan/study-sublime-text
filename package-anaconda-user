@@ -1,0 +1,9 @@
+{
+
+"anaconda_linting": false,
+
+//保存文件后自动pep8格式化
+
+"auto_formatting": true,
+
+}
