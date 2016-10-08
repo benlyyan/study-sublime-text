@@ -1,0 +1,19 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"default_encoding": "UTF-8",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
